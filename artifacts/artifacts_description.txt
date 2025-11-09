@@ -1,1 +1,5 @@
 
+Артефакты доступны на Google Drive:
+https://drive.google.com/drive/folders/1IeJrpeRzpVSnt_JSPyNF1eMnGrX5Fqt3?usp=share_link 
+
+Push возвращает ошибку в связи с нестабильным интернет-соединением 
